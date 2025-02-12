@@ -9,8 +9,9 @@
 ## 程序结构
 本工具含前端项目：前端项目（ https://github.com/EbookWorkshop/Front-end ）、服务器项目（ https://github.com/EbookWorkshop/Api ），需要同时运行才能正常工作。
 
-## Release
-[EbookWorkshop-FrontEnd@lasest](https://github.com/EbookWorkshop/Front-end/releases/latest)
+## Release  
+最新版下载
+[EbookWorkshop-FrontEnd@lasest](https://github.com/EbookWorkshop/Front-end/releases/latest)    
 [EbookWorkshop-Api@lasest](https://github.com/EbookWorkshop/Api/releases/latest)
 
 ## 如何使用
