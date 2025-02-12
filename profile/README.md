@@ -9,12 +9,16 @@
 ## 程序结构
 本工具含前端项目：前端项目（ https://github.com/EbookWorkshop/Front-end ）、服务器项目（ https://github.com/EbookWorkshop/Api ），需要同时运行才能正常工作。
 
+## Release
+[EbookWorkshop-FrontEnd@lasest](https://github.com/EbookWorkshop/Front-end/releases/latest)
+[EbookWorkshop-Api@lasest](https://github.com/EbookWorkshop/Api/releases/latest)
+
 ## 如何使用
 要跑起本项目，需要掌握一点命令行操作知识，node运行知识，npm包安装知识。    
 若想使用项目，还需要掌握一点相关知识：CSS采集器规则[^2]，正则表达式[^3]等。    
 
 ### 运行[^4]
-1. 拉取前端项目（ https://github.com/EbookWorkshop/Front-end ）、服务器项目（ https://github.com/EbookWorkshop/Api ）到本地。
+1. 拉取或下载前端项目（ https://github.com/EbookWorkshop/Front-end ）、服务器项目（ https://github.com/EbookWorkshop/Api ）到本地。
 1. 初始化运行环境 —— 分别进入上述项目，执行安装命令： `npm install --registry=http://registry.npmmirror.com` 直至没有错误提示为止。实际情况可能出现各种错误。部分可以通过重试安装命令解决。
 1. 运行项目——进入前端项目，执行命令`npm run dev`；在服务器项目执行命令`node app`
     
