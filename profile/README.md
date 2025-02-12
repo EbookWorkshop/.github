@@ -11,8 +11,8 @@
 
 ## Release  
 最新版下载   
-[EbookWorkshop-FrontEnd@lasest](https://github.com/EbookWorkshop/Front-end/releases/latest)    
-[EbookWorkshop-Api@lasest](https://github.com/EbookWorkshop/Api/releases/latest)
+[EBookWorkshop-FrontEnd@lasest](https://github.com/EbookWorkshop/Front-end/releases/latest)    
+[EBookWorkshop-Api@lasest](https://github.com/EbookWorkshop/Api/releases/latest)
 
 ## 如何使用
 要跑起本项目，需要掌握一点命令行操作知识，node运行知识，npm包安装知识。    
