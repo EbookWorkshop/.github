@@ -1,0 +1,15 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "nodejs": "22"
+  },
+  "customizations":{
+    "codespaces":{
+      "repositories":{
+        "EbookWorkshop":{
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
