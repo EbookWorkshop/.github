@@ -1,6 +1,6 @@
 # EBook Workshop
  ![Logo 4 EbookWorkshop](https://avatars.githubusercontent.com/u/132744849)    
-这是一个用于采集文章并整理成电子书的工具。采集的来源可以是在线网页、Txt文件、pdf文件[^1]。可以输出Pdf格式、Txt格式文件。并支持发送到邮箱（比如 Kindle 邮件同步）。    
+这是一个用于采集文章并整理成电子书的工具。采集的来源可以是在线网页、Txt文件、pdf文件[^1]。可以输出EPUB、Pdf、Txt格式文件。并支持发送到邮箱（比如 Kindle 邮件同步）。    
 
 做这个的初衷是为了方便将Txt文件打包成Pdf发到 Kindle —— 有一段时间Kindle直接看 Txt 文件会出现吞行的现象。    
 后来是为了方便将在线阅读的章节整本盘下来在 Kindle 看 —— Kindle 上看网页那体验实在不好，而且也不一定一直能联网。    
